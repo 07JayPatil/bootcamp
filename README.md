@@ -18,9 +18,21 @@ where donors can see exactly how much has been donated to a cause without relyin
 - Public Dashboard – Build a web interface to display donation stats in real-time.
 - Automated Fund Distribution – Enable smart rules for automatic payouts to beneficiaries.
 
- 📬 Contact
-- Developer: Jay Patil  
-- Email: jaypatil7112005@gmail.com 
-- Aptos Address: `0x71bcf9fa7926a8a499b67f8caf289fc8f8ab7d836d662a7c22b413257bb9fa0d ` 
-- GitHub: https://github.com/07JayPatil
+ 📬 Contract Address
+ ```
+{
+  "Result": {
+    "transaction_hash": "0xc196eb14d8ed0681fa5f74fdb9ef768bc6455bfe592101cb359373822d8f60e2",
+    "gas_used": 1999,
+    "gas_unit_price": 100,
+    "sender": "71bcf9fa7926a8a499b67f8caf289fc8f8ab7d836d662a7c22b413257bb9fa0d",
+    "sequence_number": 0,
+    "replay_protector": {
+      "SequenceNumber": 0
+    "success": true,
+    "version": 27893953,
+    "vm_status": "Executed successfully"
+  }
+}
+```
 <img width="1065" height="371" alt="image" src="https://github.com/user-attachments/assets/e0ef9644-af6c-47eb-ae93-7dd5d38e5c1d" />
